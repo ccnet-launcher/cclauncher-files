@@ -1,0 +1,19 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "CCNet Performance Pack (1.18.1)",
+      "name" : "CCNet Performance Pack",
+      "version" : "1.0.2",
+      "location" : "ccnet-performance-pack.json",
+      "priority" : 1
+    },
+    {
+      "title" : "CCNet Quality Pack (1.18.1)",
+      "name" : "CCNet Quality Pack",
+      "version" : "1.0.0",
+      "location" : "ccnet-quality-pack.json",
+      "priority" : 0
+    }
+  ]
+}
